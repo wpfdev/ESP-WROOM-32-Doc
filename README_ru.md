@@ -1,4 +1,4 @@
-# ESP-WROOM-32 | Настройка Arduino IDE | Linux | Ubuntu | Windows
+# ESP-WROOM-32 | Настройка Arduino IDE | Linux | Ubuntu | Windows [(EN)](/README_ru.md)
 
 # Интернет вещей
 
